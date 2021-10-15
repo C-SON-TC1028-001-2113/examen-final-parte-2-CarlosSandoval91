@@ -12,6 +12,6 @@ sudo -H pip3 install pytest
 
 - ## 15 Suma Columnas
     ### Run command
-    ```
-    pytest assignments/15SumaColumnas
+    ```pytest assignments/15SumaColumnas
+    
     ```
